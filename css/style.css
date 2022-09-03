@@ -1,0 +1,16 @@
+/* GENERAL SETTINGS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* MAIN SECTION */
+
+main {
+    margin: 0 auto;
+    width: 1200px;
+    height: 500px;
+    background-color: aquamarine;
+}
